@@ -1,4 +1,4 @@
-This was a joint project with Jeffrey Lort for the University of Delaware's Compilers course. 
+This was a joint project with Jeffrey Lort for the University of Delaware's Compilers course, with the goal of building a compiler for MeggyJava, a subset of the Java programming language. 
 
 Our file structure has all tests in the /Testing directory organized by project. PA3/PA4/PA5 test cases are in their respective subdirectories, and test different phases of extending the compiler's features.
 
