@@ -20,7 +20,7 @@ Extend .java.s file generation to include PA5 features.
 DONE: Produce errors for doubly defined symbols.
 	ex: [23,16] Redefined symbol foo
 
-Remaining code geneation needed for PA5 grammar: 
+### Remaining code geneation needed for PA5 grammar: 
 	DONE: this in parameters and expression
 	Assignment
 	DONE: New class objects
