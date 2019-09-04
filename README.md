@@ -4,11 +4,12 @@ This was a joint project with Jeffrey Lort for the University of Delaware's Comp
 
 Our file structure has all tests in the /Testing directory organized by project. PA3/PA4/PA5 test cases are in their respective subdirectories, and test different phases of extending the compiler's features.
 
+## Building with Make
 Running 'make' will produce an MJ.jar compiler and copy it, along with the MJSIM.jar and reference_compiler.jar, into all the testing subdiretories. 
 Running 'make three' 'make four' or 'make five' will automatically run the MJ.jar compiler on all .java test cases in that subdirectory. Running some cases on MJSIM may require use of the -j option.
 'make clean' is updated to remove all .class files and the .jar files from the testing directories. 
 
-Deliverables:
+## Deliverables:
 DONE: Add PA5 grammar rules to our parser.
 DONE: Update to the visitors to handle new features.
 DONE: Have ST Builder annotate instance and local variables to include offset and base information.
