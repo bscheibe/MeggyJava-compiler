@@ -20,7 +20,7 @@ Running 'make three' 'make four' or 'make five' will automatically run the MJ.ja
 	DONE: Produce errors for doubly defined symbols.
 		ex: [23,16] Redefined symbol foo
 
-### Remaining code geneation needed for final grammar: 
+### Remaining code geneation needed for final grammar layer: 
 	DONE: this in parameters and expression
 	Assignment
 	DONE: New class objects
