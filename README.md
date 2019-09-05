@@ -7,7 +7,7 @@ Our file structure has all tests in the /Testing directory organized by project.
 ## Building with Make
 Running 'make' will produce an MJ.jar compiler and copy it, along with the MJSIM.jar (simulator for MeggyJava's JRE) and reference_compiler.jar (a documented existing compiler), into all the testing subdiretories. 
 Running 'make three' 'make four' or 'make five' will automatically run the MJ.jar compiler against all .java test cases in that subdirectory. Running some cases on MJSIM may require use of the -j option.
-'make clean' is updated to remove all .class files and the .jar files from the testing directories. 
+'make clean' is updated to remove all compiled .class and .jar files, as well as produced assembly code and related AST files that stem from testing. 
 
 ## Deliverables
 	DONE: Add PA5 grammar rules to our parser.
