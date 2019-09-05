@@ -14,9 +14,9 @@ Running 'make three' 'make four' or 'make five' will automatically run the MJ.ja
 	DONE: Update to the visitors to handle new features.
 	DONE: Have ST Builder annotate instance and local variables to include offset and base information.
 	DONE: Type check for objects, instance variables, and local variables.
-	DONE: Extend .java.s file generation to include PA3 features.
-	DONE: Extend .java.s file generation to include PA4 features.
-	Extend .java.s file generation to include PA5 features.
+	DONE: Extend assembly code generation to include PA3 features.
+	DONE: Extend addembly code generation to include PA4 features.
+	Extend addembly code generation to include PA5 features.
 	DONE: Produce errors for doubly defined symbols.
 		ex: [23,16] Redefined symbol foo
 
